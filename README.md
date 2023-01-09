@@ -1,2 +1,2 @@
-# rust_in_action
+### Rust in Action
 Practice Rust in Action
